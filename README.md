@@ -50,15 +50,15 @@
 
 <div align="center">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=basirulakhlakborno&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basirulakhlakborno&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basirulakhlakborno&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=10" alt="Top Languages"/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basirulakhlakborno&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.demolab.com/?user=basirulakhlakborno&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border_radius=10" alt="GitHub Streak"/>
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=basirulakhlakborno&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF)
   
 </div>
 
