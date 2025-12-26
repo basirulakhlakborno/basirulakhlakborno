@@ -108,56 +108,7 @@
 
 ---
 
-## 🎯 Current Activities
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        
-  ### 🔨 Building
-  ```
-  Open Source Projects
-  Innovative Solutions
-  Creative Applications
-  ```
-  
-      </td>
-      <td align="center" width="33%">
-        
-  ### 📖 Learning
-  ```
-  New Technologies
-  Best Practices
-  Advanced Concepts
-  ```
-  
-      </td>
-      <td align="center" width="33%">
-        
-  ### 🤝 Collaborating
-  ```
-  Developer Community
-  Open Source
-  Team Projects
-  ```
-  
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
 ## 📦 Repository Statistics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=basirulakhlakborno&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10&custom_title=Repository%20Overview" alt="Repository Stats"/>
-  
-</div>
 
 <div align="center">
   
@@ -207,10 +158,6 @@
   
 </div>
 
----
-
-## ⚡ Repository Overview
-
 <div align="center">
   
   ![GitHub followers](https://img.shields.io/github/followers/basirulakhlakborno?style=for-the-badge&label=Followers&color=000000&logoColor=white)
@@ -224,6 +171,49 @@
   ![GitHub repos](https://img.shields.io/badge/Repositories-All-000000?style=for-the-badge&logo=github&logoColor=white)
   ![GitHub issues](https://img.shields.io/github/issues/basirulakhlakborno?style=for-the-badge&label=Issues&color=000000&logoColor=white)
   ![GitHub pull requests](https://img.shields.io/github/issues-pr/basirulakhlakborno?style=for-the-badge&label=Pull+Requests&color=000000&logoColor=white)
+  
+</div>
+
+---
+
+## 🎯 Current Activities
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        
+  ### 🔨 Building
+  ```
+  Open Source Projects
+  Innovative Solutions
+  Creative Applications
+  ```
+  
+      </td>
+      <td align="center" width="33%">
+        
+  ### 📖 Learning
+  ```
+  New Technologies
+  Best Practices
+  Advanced Concepts
+  ```
+  
+      </td>
+      <td align="center" width="33%">
+        
+  ### 🤝 Collaborating
+  ```
+  Developer Community
+  Open Source
+  Team Projects
+  ```
+  
+      </td>
+    </tr>
+  </table>
   
 </div>
 
