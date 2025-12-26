@@ -80,33 +80,27 @@
         
   ### 📊 Repository Metrics
   
-  ```
-  Total Repositories
-  Public & Private
+  **Total Repositories**  
+  Public & Private  
   Contributions
-  ```
   
       </td>
       <td align="center" width="33%">
         
   ### 📈 Activity Stats
   
-  ```
-  Total Commits
-  Pull Requests
+  **Total Commits**  
+  Pull Requests  
   Issues Created
-  ```
   
       </td>
       <td align="center" width="33%">
         
   ### 🌟 Community Stats
   
-  ```
-  Total Stars
-  Total Forks
+  **Total Stars**  
+  Total Forks  
   Total Watchers
-  ```
   
       </td>
     </tr>
