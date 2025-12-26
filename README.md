@@ -104,8 +104,6 @@
   
   ⭐️ From [basirulakhlakborno](https://github.com/basirulakhlakborno)
   
-  ![Visitor Count](https://profile-counter.glitch.me/basirulakhlakborno/count.svg)
-  
 </div>
 
 ---
