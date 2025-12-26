@@ -72,11 +72,7 @@
 
 ## 📦 Repository Statistics
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basirulakhlakborno&repo=basirulakhlakborno&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10" alt="GitHub Repositories"/>
-  
-</div>
+
 
 <div align="center">
   
