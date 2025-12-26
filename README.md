@@ -1,12 +1,12 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Opti&color=FF6B9D&size=35&center=true&vCenter=true&width=500&lines=ようこそ+Welcome!;Basirul+Akhlak+Borno;コード+Developer+%7C+エンジニア+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Opti&color=FFFFFF&size=35&center=true&vCenter=true&width=500&lines=ようこそ+Welcome!;Basirul+Akhlak+Borno;コード+Developer+%7C+エンジニア+Engineer" alt="Typing SVG" />
   
 </div>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=basirulakhlakborno&color=FF6B9D&style=for-the-badge&label=👁️+PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=basirulakhlakborno&color=000000&style=for-the-badge&label=👁️+PROFILE+VIEWS)
   
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Basirul%20Akhlak%20Borno&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=Basirul%20Akhlak%20Borno&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
   
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  ### 🌸 *"コードで世界を変える"* 🌸
+  ### ⚫ *"コードで世界を変える"* ⚪
   
   ### *"Changing the world with code, one commit at a time"*
   
@@ -73,13 +73,13 @@
 <div align="center">
   
   <a href="https://facebook.com/BorNoBXE" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=20" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=20" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/bornosixninez" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" alt="Instagram"/>
   </a>
   <a href="https://github.com/basirulakhlakborno" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub"/>
   </a>
   
 </div>
@@ -90,21 +90,21 @@
 
 <div align="center">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=basirulakhlakborno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF&border_radius=10"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=basirulakhlakborno&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10"/>
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basirulakhlakborno&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&border_radius=10"/>
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=basirulakhlakborno&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&border_radius=10)
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basirulakhlakborno&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=10"/>
   
 </div>
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basirulakhlakborno&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&area_color=FF6B9D)
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=basirulakhlakborno&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border_radius=10)
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basirulakhlakborno&theme=minimal&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF)
   
 </div>
 
@@ -159,15 +159,15 @@
   
   ### 🎨 Frontend
   
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
   
   ### ⚙️ Backend & Tools
   
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
   
 </div>
 
@@ -194,7 +194,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=ありがとう+Thank+You!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&section=footer&text=ありがとう+Thank+You!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
   
 </div>
 
