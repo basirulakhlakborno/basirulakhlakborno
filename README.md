@@ -28,44 +28,6 @@
 
 ---
 
-## 📖 Profile
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        
-  ### About Me
-  
-  ```diff
-  + 🌍 Location: Jamalpur, Bangladesh
-  + 🎯 Role: Developer & Tech Enthusiast
-  + 📚 Status: Always Learning
-  + 💡 Passion: Building & Creating
-  + ⚡ Level: Growing Developer
-  ```
-  
-      </td>
-      <td valign="top" width="50%">
-        
-  ### 🎨 Character Stats
-  
-  ```
-  🎮 Experience: [████████░░] 80%
-  💻 Coding:     [██████████] 100%
-  📖 Learning:   [█████████░] 90%
-  🤝 Teamwork:   [██████████] 100%
-  ```
-  
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
 ## 🔗 Connect
 
 <div align="center">
