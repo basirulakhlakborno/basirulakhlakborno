@@ -96,49 +96,6 @@
 
 ---
 
-## 🎯 Current Activities
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        
-  ### 🔨 Building
-  ```
-  Open Source Projects
-  Innovative Solutions
-  Creative Applications
-  ```
-  
-      </td>
-      <td align="center" width="33%">
-        
-  ### 📖 Learning
-  ```
-  New Technologies
-  Best Practices
-  Advanced Concepts
-  ```
-  
-      </td>
-      <td align="center" width="33%">
-        
-  ### 🤝 Collaborating
-  ```
-  Developer Community
-  Open Source
-  Team Projects
-  ```
-  
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&section=footer&text=Thank+You!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
