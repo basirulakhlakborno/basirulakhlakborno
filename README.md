@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Opti&color=FFFFFF&size=35&center=true&vCenter=true&width=500&lines=Welcome!;Basirul+Akhlak+Borno;Developer+%7C+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Mono&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome!;Basirul+Akhlak+Borno;Developer+%7C+Engineer" alt="Typing SVG" />
   
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basirulakhlakborno&theme=minimal&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basirulakhlakborno&theme=github-dark&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF)
   
 </div>
 
@@ -116,7 +116,7 @@
 
 <div align="center">
   
-  ![GitHub Repositories](https://github-readme-stats.vercel.app/api/pin/?username=basirulakhlakborno&repo=basirulakhlakborno&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basirulakhlakborno&repo=basirulakhlakborno&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10" alt="GitHub Repositories"/>
   
 </div>
 
