@@ -7,7 +7,10 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=basirulakhlakborno&color=000000&style=for-the-badge&label=👁️+PROFILE+VIEWS)
-  
+  ## 🔗 Connect
+- Facebook: https://facebook.com/BorNoBXE
+- Instagram: https://instagram.com/bornosixninez
+- Email: your-email@example.com
 </div>
 
 <br>
