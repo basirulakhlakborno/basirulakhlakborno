@@ -151,32 +151,79 @@
 
 ---
 
-## 💻 Tech Stack
+## 📦 Repository Statistics
 
 <div align="center">
   
-  ### 🎨 Frontend
+  <img src="https://github-readme-stats.vercel.app/api?username=basirulakhlakborno&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10&custom_title=Repository%20Overview" alt="Repository Stats"/>
   
-  ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+</div>
+
+<div align="center">
   
-  ### ⚙️ Backend & Tools
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        
+  ### 📊 Repository Metrics
   
-  ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
+  ```
+  Total Repositories
+  Public & Private
+  Contributions
+  ```
+  
+      </td>
+      <td align="center" width="33%">
+        
+  ### 📈 Activity Stats
+  
+  ```
+  Total Commits
+  Pull Requests
+  Issues Created
+  ```
+  
+      </td>
+      <td align="center" width="33%">
+        
+  ### 🌟 Community Stats
+  
+  ```
+  Total Stars
+  Total Forks
+  Total Watchers
+  ```
+  
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Repositories](https://github-readme-stats.vercel.app/api/pin/?username=basirulakhlakborno&repo=basirulakhlakborno&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10)
   
 </div>
 
 ---
 
-## ⚡ Quick Stats
+## ⚡ Repository Overview
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/basirulakhlakborno?style=social&label=Followers)
-  ![GitHub stars](https://img.shields.io/github/stars/basirulakhlakborno?style=social&label=Stars)
+  ![GitHub followers](https://img.shields.io/github/followers/basirulakhlakborno?style=for-the-badge&label=Followers&color=000000&logoColor=white)
+  ![GitHub User's stars](https://img.shields.io/github/stars/basirulakhlakborno?style=for-the-badge&label=Total+Stars&color=000000&logoColor=white)
+  ![GitHub forks](https://img.shields.io/github/forks/basirulakhlakborno?style=for-the-badge&label=Forks&color=000000&logoColor=white)
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub repos](https://img.shields.io/badge/Repositories-All-000000?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub issues](https://img.shields.io/github/issues/basirulakhlakborno?style=for-the-badge&label=Issues&color=000000&logoColor=white)
+  ![GitHub pull requests](https://img.shields.io/github/issues-pr/basirulakhlakborno?style=for-the-badge&label=Pull+Requests&color=000000&logoColor=white)
   
 </div>
 
