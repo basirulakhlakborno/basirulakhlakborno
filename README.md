@@ -112,6 +112,6 @@
 
 <div align="center">
   
-  <div class="tenor-gif-embed" data-postid="18352258" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bleach-coolboy-gif-18352258">Bleach Coolboy Sticker</a>from <a href="https://tenor.com/search/bleach+coolboy-stickers">Bleach Coolboy Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://c.tenor.com/xk1Dypa4ZDkAAAAC/tenor.gif" alt="Animated GIF" />
   
 </div>
