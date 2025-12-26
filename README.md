@@ -221,14 +221,6 @@
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/basirulakhlakborno/basirulakhlakborno/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-</div>
-
----
-
-<div align="center">
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&section=footer&text=Thank+You!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
   
 </div>
