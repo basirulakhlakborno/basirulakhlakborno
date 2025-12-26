@@ -10,7 +10,7 @@
   ## 🔗 Connect
 - Facebook: https://facebook.com/BorNoBXE
 - Instagram: https://instagram.com/bornosixninez
-- Email: your-email@example.com
+- Email: basirulakhlak@gmail.com
 </div>
 
 <br>
