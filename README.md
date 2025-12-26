@@ -122,17 +122,17 @@
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/basirulakhlakborno?style=for-the-badge&label=Followers&color=000000&logoColor=white)
-  ![GitHub User's stars](https://img.shields.io/github/stars/basirulakhlakborno?style=for-the-badge&label=Total+Stars&color=000000&logoColor=white)
-  ![GitHub forks](https://img.shields.io/github/forks/basirulakhlakborno?style=for-the-badge&label=Forks&color=000000&logoColor=white)
+  <img src="https://img.shields.io/github/followers/basirulakhlakborno?style=for-the-badge&label=Followers&color=000000&logo=github&logoColor=white" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/basirulakhlakborno?style=for-the-badge&label=Total+Stars&color=000000&logo=github&logoColor=white" alt="GitHub stars"/>
+  <img src="https://img.shields.io/badge/Repositories-All-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repos"/>
   
 </div>
 
 <div align="center">
   
-  ![GitHub repos](https://img.shields.io/badge/Repositories-All-000000?style=for-the-badge&logo=github&logoColor=white)
-  ![GitHub issues](https://img.shields.io/github/issues/basirulakhlakborno?style=for-the-badge&label=Issues&color=000000&logoColor=white)
-  ![GitHub pull requests](https://img.shields.io/github/issues-pr/basirulakhlakborno?style=for-the-badge&label=Pull+Requests&color=000000&logoColor=white)
+  <img src="https://img.shields.io/badge/Contributions-Welcome-000000?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+  <img src="https://img.shields.io/badge/Open+Source-Yes-000000?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/Status-Active-000000?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
   
 </div>
 
