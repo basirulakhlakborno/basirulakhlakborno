@@ -50,21 +50,21 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basirulakhlakborno&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=basirulakhlakborno&theme=github_dark" alt="GitHub Stats"/>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basirulakhlakborno&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=basirulakhlakborno&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF)
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basirulakhlakborno&theme=github_dark" alt="Top Languages"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basirulakhlakborno&theme=github-dark&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basirulakhlakborno&theme=github_dark" alt="Productive Time"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basirulakhlakborno&theme=github-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF" alt="GitHub Activity Graph"/>
   
 </div>
 
