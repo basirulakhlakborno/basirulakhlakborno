@@ -74,42 +74,6 @@
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        
-  ### 📊 Repository Metrics
-  
-  **Total Repositories**  
-  Public & Private  
-  Contributions
-  
-      </td>
-      <td align="center" width="33%">
-        
-  ### 📈 Activity Stats
-  
-  **Total Commits**  
-  Pull Requests  
-  Issues Created
-  
-      </td>
-      <td align="center" width="33%">
-        
-  ### 🌟 Community Stats
-  
-  **Total Stars**  
-  Total Forks  
-  Total Watchers
-  
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-<div align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=basirulakhlakborno&repo=basirulakhlakborno&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10" alt="GitHub Repositories"/>
   
 </div>
