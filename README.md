@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Opti&color=FFFFFF&size=35&center=true&vCenter=true&width=500&lines=ようこそ+Welcome!;Basirul+Akhlak+Borno;コード+Developer+%7C+エンジニア+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaisei+Opti&color=FFFFFF&size=35&center=true&vCenter=true&width=500&lines=Welcome!;Basirul+Akhlak+Borno;Developer+%7C+Engineer" alt="Typing SVG" />
   
 </div>
 
@@ -22,15 +22,13 @@
 
 <div align="center">
   
-  ### ⚫ *"コードで世界を変える"* ⚪
-  
-  ### *"Changing the world with code, one commit at a time"*
+  ### ⚫ *"Changing the world with code, one commit at a time"* ⚪
   
 </div>
 
 ---
 
-## 📖 プロフィール | Profile
+## 📖 Profile
 
 <div align="center">
   
@@ -38,7 +36,7 @@
     <tr>
       <td valign="top" width="50%">
         
-  ### 🎌 About Me
+  ### About Me
   
   ```diff
   + 🌍 Location: Jamalpur, Bangladesh
@@ -68,7 +66,7 @@
 
 ---
 
-## 🔗 連絡先 | Connect
+## 🔗 Connect
 
 <div align="center">
   
@@ -86,7 +84,7 @@
 
 ---
 
-## 📊 統計 | GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   
@@ -110,7 +108,7 @@
 
 ---
 
-## 🎯 現在の活動 | Current Activities
+## 🎯 Current Activities
 
 <div align="center">
   
@@ -153,7 +151,7 @@
 
 ---
 
-## 💻 技術スタック | Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
   
@@ -173,7 +171,7 @@
 
 ---
 
-## ⚡ クイック統計 | Quick Stats
+## ⚡ Quick Stats
 
 <div align="center">
   
@@ -194,15 +192,13 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&section=footer&text=ありがとう+Thank+You!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&section=footer&text=Thank+You!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
   
 </div>
 
 <div align="center">
   
-  ### 💭 *"コードは芸術、バグは敵"*
-  
-  ### *"Code is art, bugs are enemies"*
+  ### 💭 *"Code is art, bugs are enemies"*
   
   ⭐️ From [basirulakhlakborno](https://github.com/basirulakhlakborno)
   
